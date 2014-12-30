@@ -1,0 +1,10 @@
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\obj\Debug\FFMapTest_UnitTests.csprojResolveAssemblyReference.cache
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\FFMapTest_UnitTests.dll
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\FFMapTest_UnitTests.pdb
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\FFMapTest.dll
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\Microsoft.BizTalk.TOM.dll
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\PipelineObjects.dll
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\FFMapTest.pdb
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\obj\Debug\FFMapTest_UnitTests.dll
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\obj\Debug\FFMapTest_UnitTests.pdb
+C:\RobDev\FFMapTest\FFMapTest_UnitTests\bin\Debug\SourceCustomer.xml
